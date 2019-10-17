@@ -1,4 +1,4 @@
-package src.main.fileSystem;
+package com.exam.filesystem;
 
 public abstract class ElementType {
 	public static final int TYPE_FILE = 0;

@@ -1,4 +1,4 @@
-package src.main.fileSystem;
+package com.exam.filesystem;
 
 public class File extends FileSystemElement {
 

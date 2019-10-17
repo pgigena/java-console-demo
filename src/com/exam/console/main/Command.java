@@ -1,6 +1,4 @@
-package src.main;
-
-import java.util.Arrays;
+package com.exam.console.main;
 
 public class Command {
 	public static final String CMD_CD = "cd";

@@ -1,4 +1,4 @@
-package src.main.fileSystem;
+package com.exam.filesystem;
 
 public abstract class FileSystemElement {
 

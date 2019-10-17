@@ -1,4 +1,4 @@
-package src.main;
+package com.exam.console.main;
 
 public class Main {
 

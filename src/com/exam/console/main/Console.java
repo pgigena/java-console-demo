@@ -1,6 +1,6 @@
-package src.main;
+package com.exam.console.main;
 
-import src.main.fileSystem.*;
+import com.exam.filesystem.FileSystemManager;;
 
 public class Console {
 

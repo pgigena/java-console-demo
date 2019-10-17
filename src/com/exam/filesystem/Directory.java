@@ -1,4 +1,4 @@
-package src.main.fileSystem;
+package com.exam.filesystem;
 
 import java.util.HashMap;
 import java.util.Iterator;

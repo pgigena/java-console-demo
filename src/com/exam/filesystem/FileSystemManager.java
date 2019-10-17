@@ -1,6 +1,6 @@
-package src.main.fileSystem;
+package com.exam.filesystem;
 
-import src.main.Command;
+import com.exam.console.main.Command;
 
 public class FileSystemManager {
 

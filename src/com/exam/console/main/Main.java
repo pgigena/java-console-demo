@@ -4,8 +4,8 @@ public class Main {
 
 	public static void main(String[] args) {
 
-		System.out.println("Iniciando");
-		String s = "pwd\n"
+		System.out.println("Start");
+		String input = "pwd\n"
 				+ "mkdir dir1\n"
 				+ "mkdir dir2\n"
 				+ "touch file1.txt\n"
@@ -27,12 +27,12 @@ public class Main {
 				+ "ls -r\n"
 				+ "exit";
 		
-		String [] input = s.split("\n");
+		String [] commands = input.split("\n");
 
 		Console myConsole = new Console();
 		
-		myConsole.run(input);
-		System.out.println("Fin");
+		myConsole.run(commands);
+		System.out.println("End");
 	}
 
 }
